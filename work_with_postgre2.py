@@ -3,6 +3,10 @@ from typing import List
 from json2html import *
 import json
 
+# ttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
+
+
+
 #---------------------------------------------------------------------------------
 # данные, используемые программой в SELECT запросе, редактируются при смене задания
 #---------------------------------------------------------------------------------
